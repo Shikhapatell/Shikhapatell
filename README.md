@@ -7,7 +7,7 @@ i'm shikha patel, a recent graduate and data engineer with a background in techn
 
 my experience spans cloud data pipelines, sql, and distributed systems, and i’ve worked across industries to help clients unlock the full potential of their data. i love bridging the gap between technical solutions and real-world impact.
 
-outside of work, i’m passionate about cancer awareness and advocacy. this summer, i’m riding from austin, texas to alaska with the **texas 4000** organization to help fund cancer research and support those affected. it’s a cause that’s close to my heart, and i’m honored to be part of a community that’s biking toward hope.
+outside of work, i’m passionate about cancer awareness and advocacy. this summer, i’m riding a bike from austin, texas to alaska with the **texas 4000** organization to help fund cancer research and support those affected. it’s a cause that’s close to my heart, and i’m honored to be part of a community that’s biking toward hope.
 
 💼 [linkedin →](https://www.linkedin.com/in/shikhapatell/)
 
