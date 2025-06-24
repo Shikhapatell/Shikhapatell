@@ -14,6 +14,12 @@ outside of work, i’m passionate about cancer awareness and advocacy. this summ
 ---
 
 ## featured projects
+###  [amd - automate project tracking](https://github.com/Shikhapatell/AMD_Project/blob/main/README.md)  
+**snowflake • pyspark • power bi • python**  
+automates project tracking. cloud data engineering • large-scale data processing • predictive analytics • supply chain intelligence
+
+###  [west monroe - modern data pipeline development & orchestration](https://github.com/Shikhapatell/WestMonroe_Project/blob/main/README.md)  
+built scalable etl pipelines and automated data workflows using databricks, airflow, and dbt to transform large datasets into analytics-ready models following modern data architecture principles
 
 ###  [website cloner ai](https://github.com/shruti2003/website_cloner_ai.git)  
 **fastapi • node.js • llms (openai/anthropic) • html/css/js generation**  
@@ -34,10 +40,6 @@ full-stack ecommerce backend with api endpoints for products, orders, and users.
 ###  [track trade orders app](https://github.com/shruti2003/orders_app)  
 **flask • python • websockets • aws • docker**  
 tracks live stock and crypto trade orders with real-time websockets and cloud deployment. includes containerization and api logging.
-
-###  [amd - automate project tracking](https://github.com/Shikhapatell/AMD_Project/blob/main/README.md)  
-**snowflake • pyspark • power bi • python**  
-automates project tracking. cloud data engineering • large-scale data processing • predictive analytics • supply chain intelligence
 
 ###  [ezvote](https://www.instagram.com/karliekloss/p/CGn0bEnDEov/)  
 **ios • civic data apis • real-time polling info**  
