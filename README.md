@@ -1,4 +1,4 @@
-### hi, i'm shikha! 👋
+### hi, i'm shikha! 
 
 
 <img width="943" alt="Screenshot 2025-06-23 at 7 40 11 PM" src="https://github.com/user-attachments/assets/1c26d57c-0b61-45be-a128-0e511d7fd0d0" />
@@ -46,10 +46,6 @@ ios app built to help users access voting and registration info. featured by kar
 ### 🐶 [ml model for austin animal shelter](https://github.com/shruti2003/MLFinalProject)  
 **python • pandas • sklearn • machine learning**  
 trained a classifier to predict dog adoption outcomes based on intake, breed, and behavior data from austin animal shelter.
-
-### 🌐 [personal website](https://www.cs.utexas.edu/~shruti/)  
-**html • css • javascript**  
-portfolio site with past project highlights and contact info. (not updated with latest work.)
 
 ### 🖼 [image classification](https://github.com/shruti2003/ImageClassification/tree/main)  
 **python • machine learning • cnn concepts**  
