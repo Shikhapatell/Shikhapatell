@@ -13,49 +13,49 @@ outside of work, i’m passionate about cancer awareness and advocacy. this summ
 
 ---
 
-## 🚀 featured projects
+## featured projects
 
-### 🧠 [website cloner ai](https://github.com/shruti2003/website_cloner_ai.git)  
+###  [website cloner ai](https://github.com/shruti2003/website_cloner_ai.git)  
 **fastapi • node.js • llms (openai/anthropic) • html/css/js generation**  
 clones the structure and content of any website using llms. given a url, it generates html/css/js by analyzing layout and content using ai models.
 
-### 🔗 [on-chain reward verification system](https://github.com/shruti2003/smart_contract_final)  
+###  [on-chain reward verification system](https://github.com/shruti2003/smart_contract_final)  
 **solidity • hardhat • foundry • ethers.js • openzeppelin**  
 verifies apy and tvl rewards for erc20 tokens through smart contracts. includes liquidity pool tracking, full-stack dapp, and unit testing.
 
-### 🤖 [real estate chat bot](https://github.com/shruti2003/Real_Estate_Chat_Bot)  
+###  [real estate chat bot](https://github.com/shruti2003/Real_Estate_Chat_Bot)  
 **python • flask • nlp • dialogflow • sqlite • javascript**  
 a data-driven chatbot for answering real estate queries using structured backend logic and natural language understanding.
 
-### 🛒 [api ecommerce](https://github.com/shruti2003/ecommerce_app)  
+###  [api ecommerce](https://github.com/shruti2003/ecommerce_app)  
 **postgresql • restful apis • auth • backend systems**  
 full-stack ecommerce backend with api endpoints for products, orders, and users. includes token-based authentication and db persistence.
 
-### 📈 [track trade orders app](https://github.com/shruti2003/orders_app)  
+###  [track trade orders app](https://github.com/shruti2003/orders_app)  
 **flask • python • websockets • aws • docker**  
 tracks live stock and crypto trade orders with real-time websockets and cloud deployment. includes containerization and api logging.
 
-### ⚡ [log parser – amd silicon testing automation](https://github.com/shruti2003/Log_Parser)  
-**databricks • pyspark • power bi • python**  
-automates parsing and analysis of silicon validation logs. generates dashboards and insights from large volumes of hardware test data.
+###  [amd - automate project tracking](https://github.com/Shikhapatell/AMD_Project/blob/main/README.md)  
+**snowflake • pyspark • power bi • python**  
+automates project tracking. cloud data engineering • large-scale data processing • predictive analytics • supply chain intelligence
 
-### 📱 [ezvote](https://www.instagram.com/karliekloss/p/CGn0bEnDEov/)  
+###  [ezvote](https://www.instagram.com/karliekloss/p/CGn0bEnDEov/)  
 **ios • civic data apis • real-time polling info**  
 ios app built to help users access voting and registration info. featured by karlie kloss during the 2020 election cycle.
 
-### 🐶 [ml model for austin animal shelter](https://github.com/shruti2003/MLFinalProject)  
+###  [ml model for austin animal shelter](https://github.com/shruti2003/MLFinalProject)  
 **python • pandas • sklearn • machine learning**  
 trained a classifier to predict dog adoption outcomes based on intake, breed, and behavior data from austin animal shelter.
 
-### 🖼 [image classification](https://github.com/shruti2003/ImageClassification/tree/main)  
+###  [image classification](https://github.com/shruti2003/ImageClassification/tree/main)  
 **python • machine learning • cnn concepts**  
 image classifier using custom and pre-trained convolutional networks. explores classification accuracy and dataset evaluation.
 
-### 📈 [stock predictions](https://github.com/shruti2003/StockPredictions/tree/main)  
+###  [stock predictions](https://github.com/shruti2003/StockPredictions/tree/main)  
 **python • time series • regression modeling**  
 predicts stock price movement using historical time series data and ml regression models. includes visualization and trend analysis.
 
-### 🏅 [olympics data analysis](https://github.com/shruti2003/dbt-project)  
+###  [olympics data analysis](https://github.com/shruti2003/dbt-project)  
 **dbt • google cloud • bigquery • python**  
 etl and analytics pipeline built with dbt and gcp. models olympics data for dashboarding and exploration of medal trends and athlete stats.
 
