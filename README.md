@@ -1,8 +1,7 @@
 ### hi, i'm shikha! 👋
 
 
-
-![shikha profile](<img width="943" alt="Screenshot 2025-06-23 at 7 40 11 PM" src="https://github.com/user-attachments/assets/1c26d57c-0b61-45be-a128-0e511d7fd0d0" />)
+<img width="943" alt="Screenshot 2025-06-23 at 7 40 11 PM" src="https://github.com/user-attachments/assets/1c26d57c-0b61-45be-a128-0e511d7fd0d0" />
 
 i'm shikha patel, a recent graduate and data engineer with a background in technology consulting. i'm passionate about using data and technology to make a meaningful impact—whether it's through optimizing systems or supporting causes i care deeply about.
 
